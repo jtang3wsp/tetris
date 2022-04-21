@@ -15,7 +15,7 @@ GRID IS DISPLAYED IN ROW-MAJOR ORDER. TRADITIONAL X AND Y COORDINATES ARE SWAPPE
 
 WALL KICK DATA WAS MODIFIED ACCORDINGLY
 
-Fix/Add
+# Fix/Add
 - SMOOTHER CONTROLS
 - Better gravity/lock timers
 - Sometimes a ghost mino will overwrite one of its original Tetromino's minos (?)
