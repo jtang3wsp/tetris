@@ -6,7 +6,7 @@ Modern Tetris made in C++ with SFML
 - Hold
 - 5 upcoming pieces view
 - Ghost piece
-- 7-piece bag randomizer
+- 7-bag randomizer
 
 # IMPORTANT
 GRID IS DISPLAYED IN ROW-MAJOR ORDER. TRADITIONAL X AND Y COORDINATES ARE SWAPPED
