@@ -2,8 +2,8 @@
 Modern Tetris made in C++ with SFML
 
 - Soft drop/hard drop
-- Clockwise and counterclockwise rotation functions (using SRS wall kick data)
-- Hold
+- Clockwise and counterclockwise 90 degree rotation (using SRS wall kick data)
+- Hold piece
 - 5 upcoming pieces view
 - Ghost piece
 - 7-bag randomizer
@@ -14,6 +14,8 @@ GRID IS DISPLAYED IN ROW-MAJOR ORDER. TRADITIONAL X AND Y COORDINATES ARE SWAPPE
 - (+Y = DOWN, -Y = UP)
 
 WALL KICK DATA WAS MODIFIED ACCORDINGLY
+
+data from https://tetris.wiki/Super_Rotation_System
 
 # Fix/Add
 - SMOOTHER CONTROLS
